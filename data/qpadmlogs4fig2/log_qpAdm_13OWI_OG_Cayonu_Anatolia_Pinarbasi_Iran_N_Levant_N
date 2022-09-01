@@ -1,0 +1,280 @@
+qpAdm: parameter file: qpAdm_13OWI_OG_Cayonu_Anatolia_Pinarbasi_Iran_N_Levant_N.par
+### THE INPUT PARAMETERS
+##PARAMETER NAME: VALUE
+genotypename: /mnt/NEOGENE1/projects/cayonudirekli_2019/dataset/yri_simon/yri.pub.2021.cay.geno
+snpname: /mnt/NEOGENE1/projects/cayonudirekli_2019/dataset/yri_simon/yri.pub.2021.cay.snp
+indivname: /mnt/NEOGENE1/projects/cayonudirekli_2019/analysis/qpadm/2022/yri.simon.2021.comp.qpadm_Corrected.ind
+popleft: left_poplist_cayonu13OWI.par9
+popright: right13OWI
+summary: YES
+details: YES
+allsnps: YES
+inbreed: NO
+## qpAdm version: 1520
+seed: 632297201
+inbreed set NO
+inbreed set NO
+tmp: /tmp/fsx.303216
+
+left pops:
+Cayonu
+Anatolia_Pinarbasi
+Iran_N
+Levant_N
+
+right pops:
+Mbuti
+Ust_Ishim
+Kostenki14.SG
+MA1
+Han
+Papuan
+Dai
+Chukchi
+Mixe
+CHG
+Natufian
+WHG
+AfontovaGora3
+Iberomaurusian
+
+codimension 1
+f4info: 
+f4rank: 2 dof:     11 chisq:    15.862 tail:          0.146324697 dofdiff:     13 chisqdiff:   -15.862 taildiff:                    1
+B:
+          scale     1.000     1.000 
+      Ust_Ishim    -0.193     0.914 
+  Kostenki14.SG     0.196     1.483 
+            MA1    -0.149     1.155 
+            Han    -0.432     0.643 
+         Papuan    -0.444     0.731 
+            Dai    -0.482     0.727 
+        Chukchi     0.033     1.308 
+           Mixe    -0.406     0.706 
+            CHG    -0.870     0.733 
+       Natufian     2.820    -0.006 
+            WHG     0.752     1.891 
+  AfontovaGora3    -0.605     0.911 
+ Iberomaurusian     1.574    -0.064 
+A:
+          scale   146.797   229.143 
+Anatolia_Pinarbasi     0.408     1.031 
+         Iran_N    -1.234    -0.883 
+       Levant_N     1.145    -1.075 
+
+
+full rank
+f4info: 
+f4rank: 3 dof:      0 chisq:     0.000 tail:                    1 dofdiff:     11 chisqdiff:    15.862 taildiff:          0.146324697
+B:
+          scale   251.849   101.273   101.085 
+      Ust_Ishim     0.778    -0.246    -0.625 
+  Kostenki14.SG     1.568    -0.840    -0.626 
+            MA1     0.745    -0.445    -0.769 
+            Han     0.118    -0.000    -0.731 
+         Papuan    -0.032    -0.052    -0.806 
+            Dai     0.191     0.013    -0.812 
+        Chukchi     0.919    -0.725    -0.744 
+           Mixe     0.147    -0.064    -0.775 
+            CHG    -0.841     0.186    -1.276 
+       Natufian     1.103    -2.660     1.989 
+            WHG     2.426    -1.464    -0.378 
+  AfontovaGora3    -0.635    -0.269    -1.260 
+ Iberomaurusian     0.500    -1.476     1.146 
+A:
+          scale     1.732     1.732     1.732 
+Anatolia_Pinarbasi     1.732     0.000     0.000 
+         Iran_N     0.000     1.732     0.000 
+       Levant_N     0.000     0.000     1.732 
+
+
+best coefficients:     0.480     0.332     0.187 
+totmean:      0.480     0.332     0.187 
+boot mean:     0.483     0.331     0.186 
+      std. errors:     0.060     0.030     0.046 
+
+error covariance (* 1,000,000)
+      3560      -1205      -2355 
+     -1205        924        281 
+     -2355        281       2074 
+
+
+summ: Cayonu    3      0.146325     0.483     0.331     0.186       3560      -1205      -2355        924        281   ...
+      2074 
+
+    fixed pat  wt  dof     chisq       tail prob
+          000  0    11    15.862        0.146325     0.480     0.332     0.187 
+          001  1    12    30.159      0.00264279     0.705     0.295     0.000 
+          010  1    12    75.859      2.5273e-11     1.093     0.000    -0.093  infeasible
+          100  1    12   116.934     2.52138e-19     0.000     0.490     0.510 
+          011  2    13    76.726     4.53439e-11     1.000     0.000     0.000 
+          101  2    13   556.408               0     0.000     1.000     0.000 
+          110  2    13   514.972               0     0.000     0.000     1.000 
+best pat:          000         0.146325              -  -
+best pat:          100      2.52138e-19  chi(nested):   101.071 p-value for nested model:      8.8723e-24
+best pat:          011      4.53439e-11 not nested
+
+coeffs:     0.480     0.332     0.187 
+
+## dscore:: f_4(Base, Fit, Rbase, right2)
+## genstat:: f_4(Base, Fit, right1, right2)
+
+details:   Anatolia_Pinarbasi            Ust_Ishim     0.003090    1.679770
+details:               Iran_N            Ust_Ishim    -0.002429   -1.791012
+details:             Levant_N            Ust_Ishim    -0.006186   -4.694482
+dscore:            Ust_Ishim f4:    -0.000483 Z:    -0.392025
+
+details:   Anatolia_Pinarbasi        Kostenki14.SG     0.006226    2.942056
+details:               Iran_N        Kostenki14.SG    -0.008291   -6.204245
+details:             Levant_N        Kostenki14.SG    -0.006191   -4.298585
+dscore:        Kostenki14.SG f4:    -0.000927 Z:    -0.674353
+
+details:   Anatolia_Pinarbasi                  MA1     0.002957    1.439878
+details:               Iran_N                  MA1    -0.004390   -3.373780
+details:             Levant_N                  MA1    -0.007606   -5.211833
+dscore:                  MA1 f4:    -0.001465 Z:    -1.102949
+
+details:   Anatolia_Pinarbasi                  Han     0.000469    0.292801
+details:               Iran_N                  Han    -0.000003   -0.002543
+details:             Levant_N                  Han    -0.007228   -6.671972
+dscore:                  Han f4:    -0.001130 Z:    -1.067297
+
+details:   Anatolia_Pinarbasi               Papuan    -0.000129   -0.078452
+details:               Iran_N               Papuan    -0.000514   -0.460714
+details:             Levant_N               Papuan    -0.007972   -7.345936
+dscore:               Papuan f4:    -0.001727 Z:    -1.608100
+
+details:   Anatolia_Pinarbasi                  Dai     0.000759    0.501274
+details:               Iran_N                  Dai     0.000128    0.115580
+details:             Levant_N                  Dai    -0.008033   -7.754265
+dscore:                  Dai f4:    -0.001098 Z:    -1.092758
+
+details:   Anatolia_Pinarbasi              Chukchi     0.003650    2.075066
+details:               Iran_N              Chukchi    -0.007160   -5.624893
+details:             Levant_N              Chukchi    -0.007358   -5.877155
+dscore:              Chukchi f4:    -0.002006 Z:    -1.748439
+
+details:   Anatolia_Pinarbasi                 Mixe     0.000583    0.354273
+details:               Iran_N                 Mixe    -0.000634   -0.546588
+details:             Levant_N                 Mixe    -0.007671   -6.796339
+dscore:                 Mixe f4:    -0.001369 Z:    -1.267931
+
+details:   Anatolia_Pinarbasi                  CHG    -0.003339   -1.950863
+details:               Iran_N                  CHG     0.001832    1.503531
+details:             Levant_N                  CHG    -0.012625  -10.648557
+dscore:                  CHG f4:    -0.003360 Z:    -2.987553
+
+details:   Anatolia_Pinarbasi             Natufian     0.004379    1.972835
+details:               Iran_N             Natufian    -0.026268  -16.104987
+details:             Levant_N             Natufian     0.019680   11.955096
+dscore:             Natufian f4:    -0.002943 Z:    -1.853315
+
+details:   Anatolia_Pinarbasi                  WHG     0.009634    5.646295
+details:               Iran_N                  WHG    -0.014452  -12.688657
+details:             Levant_N                  WHG    -0.003740   -3.329174
+dscore:                  WHG f4:    -0.000880 Z:    -0.795550
+
+details:   Anatolia_Pinarbasi        AfontovaGora3    -0.002520   -0.866585
+details:               Iran_N        AfontovaGora3    -0.002656   -1.106453
+details:             Levant_N        AfontovaGora3    -0.012462   -5.186707
+dscore:        AfontovaGora3 f4:    -0.004428 Z:    -1.948972
+
+details:   Anatolia_Pinarbasi       Iberomaurusian     0.001984    1.308518
+details:               Iran_N       Iberomaurusian    -0.014573  -12.703544
+details:             Levant_N       Iberomaurusian     0.011337   10.020177
+dscore:       Iberomaurusian f4:    -0.001768 Z:    -1.661029
+
+gendstat:                Mbuti            Ust_Ishim    -0.392
+gendstat:                Mbuti        Kostenki14.SG    -0.674
+gendstat:                Mbuti                  MA1    -1.103
+gendstat:                Mbuti                  Han    -1.067
+gendstat:                Mbuti               Papuan    -1.608
+gendstat:                Mbuti                  Dai    -1.093
+gendstat:                Mbuti              Chukchi    -1.748
+gendstat:                Mbuti                 Mixe    -1.268
+gendstat:                Mbuti                  CHG    -2.988
+gendstat:                Mbuti             Natufian    -1.853
+gendstat:                Mbuti                  WHG    -0.796
+gendstat:                Mbuti        AfontovaGora3    -1.949
+gendstat:                Mbuti       Iberomaurusian    -1.661
+gendstat:            Ust_Ishim        Kostenki14.SG    -0.282
+gendstat:            Ust_Ishim                  MA1    -0.630
+gendstat:            Ust_Ishim                  Han    -0.523
+gendstat:            Ust_Ishim               Papuan    -0.978
+gendstat:            Ust_Ishim                  Dai    -0.505
+gendstat:            Ust_Ishim              Chukchi    -1.042
+gendstat:            Ust_Ishim                 Mixe    -0.678
+gendstat:            Ust_Ishim                  CHG    -2.047
+gendstat:            Ust_Ishim             Natufian    -1.300
+gendstat:            Ust_Ishim                  WHG    -0.298
+gendstat:            Ust_Ishim        AfontovaGora3    -1.650
+gendstat:            Ust_Ishim       Iberomaurusian    -0.889
+gendstat:        Kostenki14.SG                  MA1    -0.351
+gendstat:        Kostenki14.SG                  Han    -0.161
+gendstat:        Kostenki14.SG               Papuan    -0.585
+gendstat:        Kostenki14.SG                  Dai    -0.135
+gendstat:        Kostenki14.SG              Chukchi    -0.763
+gendstat:        Kostenki14.SG                 Mixe    -0.338
+gendstat:        Kostenki14.SG                  CHG    -1.721
+gendstat:        Kostenki14.SG             Natufian    -1.084
+gendstat:        Kostenki14.SG                  WHG     0.038
+gendstat:        Kostenki14.SG        AfontovaGora3    -1.482
+gendstat:        Kostenki14.SG       Iberomaurusian    -0.596
+gendstat:                  MA1                  Han     0.266
+gendstat:                  MA1               Papuan    -0.196
+gendstat:                  MA1                  Dai     0.288
+gendstat:                  MA1              Chukchi    -0.392
+gendstat:                  MA1                 Mixe     0.073
+gendstat:                  MA1                  CHG    -1.343
+gendstat:                  MA1             Natufian    -0.783
+gendstat:                  MA1                  WHG     0.447
+gendstat:                  MA1        AfontovaGora3    -1.307
+gendstat:                  MA1       Iberomaurusian    -0.206
+gendstat:                  Han               Papuan    -0.655
+gendstat:                  Han                  Dai     0.054
+gendstat:                  Han              Chukchi    -0.840
+gendstat:                  Han                 Mixe    -0.284
+gendstat:                  Han                  CHG    -1.928
+gendstat:                  Han             Natufian    -1.052
+gendstat:                  Han                  WHG     0.247
+gendstat:                  Han        AfontovaGora3    -1.480
+gendstat:                  Han       Iberomaurusian    -0.544
+gendstat:               Papuan                  Dai     0.686
+gendstat:               Papuan              Chukchi    -0.244
+gendstat:               Papuan                 Mixe     0.356
+gendstat:               Papuan                  CHG    -1.367
+gendstat:               Papuan             Natufian    -0.688
+gendstat:               Papuan                  WHG     0.786
+gendstat:               Papuan        AfontovaGora3    -1.203
+gendstat:               Papuan       Iberomaurusian    -0.034
+gendstat:                  Dai              Chukchi    -0.888
+gendstat:                  Dai                 Mixe    -0.318
+gendstat:                  Dai                  CHG    -2.017
+gendstat:                  Dai             Natufian    -1.078
+gendstat:                  Dai                  WHG     0.217
+gendstat:                  Dai        AfontovaGora3    -1.497
+gendstat:                  Dai       Iberomaurusian    -0.587
+gendstat:              Chukchi                 Mixe     0.576
+gendstat:              Chukchi                  CHG    -1.087
+gendstat:              Chukchi             Natufian    -0.532
+gendstat:              Chukchi                  WHG     1.001
+gendstat:              Chukchi        AfontovaGora3    -1.072
+gendstat:              Chukchi       Iberomaurusian     0.191
+gendstat:                 Mixe                  CHG    -1.616
+gendstat:                 Mixe             Natufian    -0.908
+gendstat:                 Mixe                  WHG     0.449
+gendstat:                 Mixe        AfontovaGora3    -1.395
+gendstat:                 Mixe       Iberomaurusian    -0.327
+gendstat:                  CHG             Natufian     0.237
+gendstat:                  CHG                  WHG     2.126
+gendstat:                  CHG        AfontovaGora3    -0.464
+gendstat:                  CHG       Iberomaurusian     1.234
+gendstat:             Natufian                  WHG     1.251
+gendstat:             Natufian        AfontovaGora3    -0.554
+gendstat:             Natufian       Iberomaurusian     0.720
+gendstat:                  WHG        AfontovaGora3    -1.546
+gendstat:                  WHG       Iberomaurusian    -0.741
+gendstat:        AfontovaGora3       Iberomaurusian     1.177
+
+removing /tmp/fsx.303216
+##end of qpAdm:        6.848 seconds cpu        1.114 Mbytes in use

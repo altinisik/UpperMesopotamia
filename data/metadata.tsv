@@ -1,0 +1,113 @@
+inds	pop	era	shape	Region	assign	ellipse	nudgex	nudgey	date	lat	lon
+ZBC_IPB001	Anatolia_Pinarbasi	Epi-Paleolithic	others	Anatolia	Anatolia EP	Anatolia EP	-0.02	0.02	15405	37.483333	33.033333
+I1580	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8195	40.3	29.56666667
+I1581	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8254	40.3	29.56666667
+I1583	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8281	40.3	29.56666667
+Tep002	Anatolia_Tepecik_Ciftlik	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8585	38.172218	34.49387
+Tep003	Anatolia_Tepecik_Ciftlik	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8505	38.172218	34.49387
+Tep004	Anatolia_Tepecik_Ciftlik	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8295	38.172218	34.49387
+Tep006	Anatolia_Tepecik_Ciftlik	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8230	38.172218	34.49387
+I0707	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8092	40.3	29.56666667
+I0708	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8097	40.3	29.56666667
+I0709	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8086	40.3	29.56666667
+I0736	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8300	40.3	29.56666667
+I0744	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8273	40.3	29.56666667
+I0745	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8251	40.3	29.56666667
+I0746	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7930	40.3	29.56666667
+I1096	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8300	40.3	29.56666667
+I1097	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8288	40.3	29.56666667
+I1098	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8288	40.3	29.56666667
+I1099	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8300	40.3	29.56666667
+I1100	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8300	40.3	29.56666667
+I1101	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8300	40.3	29.56666667
+I1102	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8300	40.3	29.56666667
+I1103	Anatolia_Barcin	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8300	40.3	29.56666667
+I0723	Anatolia_Mentese	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7870	40.26	29.65
+I0724	Anatolia_Mentese	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7950	40.26	29.65
+I0725	Anatolia_Mentese	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7950	40.26	29.65
+I0726	Anatolia_Mentese	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7950	40.26	29.65
+I0727	Anatolia_Mentese	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7950	40.26	29.65
+Ash002	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9480	38.34840386	34.2313137
+Ash033	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9682.5	38.34840386	34.2313137
+Ash040	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9657.5	38.34840386	34.2313137
+Ash128	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	10040	38.34840386	34.2313137
+Ash129	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9802.5	38.34840386	34.2313137
+Ash136	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9805	38.34840386	34.2313137
+Ash131	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9827.5	38.34840386	34.2313137
+Ash133	Anatolia_Asikli	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9810	38.34840386	34.2313137
+cth006	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8520	37.6662928	32.82579937
+cth728	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8550	37.6662928	32.82579937
+cth842	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8547.5	37.6662928	32.82579937
+cth747	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8515	37.6662928	32.82579937
+pch034	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8550	37.6662928	32.82579937
+CCH144	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8807.5	37.6662928	32.82579937
+CCH285	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8550	37.6662928	32.82579937
+CCH163	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8550	37.6662928	32.82579937
+CCH289	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8680	37.6662928	32.82579937
+CCH290	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8590	37.6662928	32.82579937
+CCH294	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8550	37.6662928	32.82579937
+CCH311	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8550	37.6662928	32.82579937
+cth739	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8105	37.6662928	32.82579937
+cth217	Anatolia_Catalhoyuk	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	8277.5	37.6662928	32.82579937
+Bar31	Anatolia_Barcin.SG	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7930	40.3	29.56666667
+Bar8	Anatolia_Barcin.SG	Neolithic	others	Anatolia	Anatolia PN	Anatolia PN	0.02	0.02	7930	40.3	29.56666667
+ZHAG_BON004	Anatolia_Boncuklu	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9900	37.75	32.866667
+ZHAJ_BON034	Anatolia_Boncuklu	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9900	37.75	32.866667
+ZHJ_BON024	Anatolia_Boncuklu	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	10189.5	37.75	32.866667
+ZKO_BON001	Anatolia_Boncuklu	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	10000	37.75	32.866667
+ZMOJ_BON014	Anatolia_Boncuklu	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	9900	37.75	32.866667
+Bon002	Anatolia_Boncuklu	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	10078	37.75191	32.864901
+Bon004	Anatolia_Boncuklu	Neolithic	others	Anatolia	Anatolia PPN	Anatolia PPN	0	0	10076	37.75191	32.864901
+CAY008	CAY008	Cayonu	Cayonu	Cayonu	Cayonu	cay008	0.05	0	9670	38.218247	39.726287
+cay007	CAY007	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	10351	38.218247	39.726287
+CAY004	CAY004	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9543.5	38.218247	39.726287
+cay011	cay011	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9512.5	38.218247	39.726287
+cay012	cay012	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9500	38.218247	39.726287
+cay013	cay013	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9694	38.218247	39.726287
+cay014	cay014	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9961.5	38.218247	39.726287
+cay015	cay015	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9500	38.218247	39.726287
+cay016	cay016	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9694	38.218247	39.726287
+cay018	cay018	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9500	38.218247	39.726287
+cay020	cay020	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9500	38.218247	39.726287
+cay022	cay022	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	10216	38.218247	39.726287
+cay027	cay027	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9500	38.218247	39.726287
+cay033	cay033	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9500	38.218247	39.726287
+cay1820	cay1820	Cayonu	Cayonu	Cayonu	Cayonu	Cayonu	0.05	0	9500	38.218247	39.726287
+I1685	Natufian	Epi-Paleolithic	others	Levant	Levant EP	Levant EP	0.01	0	12750	32.65	35.067
+I1687	Natufian	Epi-Paleolithic	others	Levant	Levant EP	Levant EP	0.01	0	13265	32.65	35.067
+I1690	Natufian	Epi-Paleolithic	others	Levant	Levant EP	Levant EP	0.01	0	12750	32.65	35.067
+I0861	Natufian	Epi-Paleolithic	others	Levant	Levant EP	Levant EP	0.01	0	12750	32.65	35.067
+I1069	Natufian	Epi-Paleolithic	others	Levant	Levant EP	Levant EP	0.01	0	12750	32.65	35.067
+I1072	Natufian	Epi-Paleolithic	others	Levant	Levant EP	Levant EP	0.01	0	12750	32.65	35.067
+I1414	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	10050	31.988	35.976
+I1415	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	9875	31.988	35.976
+I1416	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	10050	31.988	35.976
+I1700	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	10050	31.988	35.976
+I1701	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	9610	31.988	35.976
+I1704	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	9202	31.988	35.976
+I1707	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	9582	31.988	35.976
+I1709	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	10050	31.988	35.976
+I1710	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	9580	31.988	35.976
+I1727	Levant_AinGhazal_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	10050	31.988	35.976
+I1679	Levant_AinGhazal_PPNC	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	8800	31.988	35.976
+I1699	Levant_AinGhazal_PPNC	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	8700	31.988	35.976
+BAJ001_BAJ001	Levant_Baja_N	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	8807	30.415278	35.462778
+KFH2_KFH002	Levant_KfarH_N	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	9601	32.703694	35.267583
+I0867	Levant_Motza_PPNB	Neolithic	others	Levant	Levant PPN	Levant PPN	0.01	0	8700	31.79	35.168
+Kotias	CHG	Epi-Paleolithic	others	Iran/Cau	S Caucasus EP	S Caucasus EP	0	0.02	9720	42.28	43.28
+Satsurblia	CHG	Epi-Paleolithic	others	Iran/Cau	S Caucasus EP	S Caucasus EP	0	0.02	13255	42.38	42.59
+I1290	Iran_GanjDareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9846	34.45	48.116
+I1293	Iran_HotuIIIb	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9846	34.45	48.116
+AH1	Iran_TepeAbdul_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9900	34.188318	48.368883
+AH2	Iran_TepeAbdul_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9931	34.188318	48.368883
+AH4	Iran_TepeAbdul_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9930	34.188318	48.368883
+I1944	Iran_Ganj_Dareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9800	34.45	48.116
+I1945	Iran_Ganj_Dareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9800	34.45	48.116
+I1947	Iran_Ganj_Dareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9973	34.45	48.116
+I1949	Iran_Ganj_Dareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	10052	34.45	48.116
+I1951	Iran_Ganj_Dareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9892	34.45	48.116
+I1954	Iran_Ganj_Dareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	10093	34.45	48.116
+I7527	Iran_Ganj_Dareh_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9900	34.45	48.116
+I1671	Iran_SehGabi_LN	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	7698	34.5	47.96
+WC1	Iran_WezmehCave_N	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9219	34.6129	47.1057
+GD13a	Iran_GanjDareh_N_SG	Neolithic	others	Iran/Cau	C Zagros N	C Zagros N	0	0.02	9846	34.45	48.116

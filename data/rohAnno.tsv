@@ -1,0 +1,448 @@
+iid	Group ID	type	region	period
+CCH294	C Anatolia PN	ancient	Anatolia	PN
+CCH311	C Anatolia PN	ancient	Anatolia	PN
+Tep002	C Anatolia PN	ancient	Anatolia	PN
+Tep003	C Anatolia PN	ancient	Anatolia	PN
+Tep004	C Anatolia PN	ancient	Anatolia	PN
+Tep006	C Anatolia PN	ancient	Anatolia	PN
+Ash128	C Anatolia PPN	ancient	Anatolia	PPN
+Ash129	C Anatolia PPN	ancient	Anatolia	PPN
+Bon002	C Anatolia PPN	ancient	Anatolia	PPN
+AH1	C Zagros N	ancient	Zagros	N
+AH2	C Zagros N	ancient	Zagros	N
+AH4	C Zagros N	ancient	Zagros	N
+GD13a	C Zagros N	ancient	Zagros	N
+I1671	C Zagros N	ancient	Zagros	N
+I1945	C Zagros N	ancient	Zagros	N
+I1947	C Zagros N	ancient	Zagros	N
+I1954	C Zagros N	ancient	Zagros	N
+WC1	C Zagros N	ancient	Zagros	N
+I0861	Levant EP	ancient	Levant	EP
+I1072	Levant EP	ancient	Levant	EP
+Kotias	S Caucasus EP	ancient	Caucasus	EP
+Satsurblia	S Caucasus EP	ancient	Caucasus	EP
+ALX002	S Caucasus N	ancient	Caucasus	N
+MTT001	S Caucasus N	ancient	Caucasus	N
+POT002	S Caucasus N	ancient	Caucasus	N
+I0867	S Levant PPN	ancient	Levant	PPN
+I1699	S Levant PPN	ancient	Levant	PPN
+I1704	S Levant PPN	ancient	Levant	PPN
+I1707	S Levant PPN	ancient	Levant	PPN
+I1710	S Levant PPN	ancient	Levant	PPN
+Bar31	W Anatolia PN	ancient	Anatolia	PN
+Bar8	W Anatolia PN	ancient	Anatolia	PN
+I0707	W Anatolia PN	ancient	Anatolia	PN
+I0708	W Anatolia PN	ancient	Anatolia	PN
+I0709	W Anatolia PN	ancient	Anatolia	PN
+I0723	W Anatolia PN	ancient	Anatolia	PN
+I0726	W Anatolia PN	ancient	Anatolia	PN
+I0736	W Anatolia PN	ancient	Anatolia	PN
+I0744	W Anatolia PN	ancient	Anatolia	PN
+I0745	W Anatolia PN	ancient	Anatolia	PN
+I0746	W Anatolia PN	ancient	Anatolia	PN
+I1096	W Anatolia PN	ancient	Anatolia	PN
+I1097	W Anatolia PN	ancient	Anatolia	PN
+I1098	W Anatolia PN	ancient	Anatolia	PN
+I1099	W Anatolia PN	ancient	Anatolia	PN
+I1100	W Anatolia PN	ancient	Anatolia	PN
+I1101	W Anatolia PN	ancient	Anatolia	PN
+I1102	W Anatolia PN	ancient	Anatolia	PN
+I1103	W Anatolia PN	ancient	Anatolia	PN
+I1580	W Anatolia PN	ancient	Anatolia	PN
+I1581	W Anatolia PN	ancient	Anatolia	PN
+I1583	W Anatolia PN	ancient	Anatolia	PN
+I1579	W Anatolia PN-Chal	ancient	Anatolia	PN
+I1585	W Anatolia PN-Chal	ancient	Anatolia	PN
+BAJ001	S Levant PPN	ancient	Levant	PPN
+cay007	Çayönü	ancient	Çayönü	Çayönü
+cay013	Çayönü	ancient	Çayönü	Çayönü
+KFH2	S Levant PPN	ancient	Levant	PPN
+ZBC	C Anatolia EP	ancient	Anatolia	EP
+ZHAG	C Anatolia PPN	ancient	Anatolia	PPN
+ZHAJ	C Anatolia PPN	ancient	Anatolia	PPN
+ZHJ	C Anatolia PPN	ancient	Anatolia	PPN
+ZKO	C Anatolia PPN	ancient	Anatolia	PPN
+ZMOJ	C Anatolia PPN	ancient	Anatolia	PPN
+HGDP00001.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00003.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00005.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00007.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00009.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00011.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00015.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00017.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00019.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00021.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00023.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00025.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00027.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00031.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00033.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00035.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00037.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00039.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00041.SDG	Brahui.SDG.SDG	modern	Central_Eurasia	modern
+HGDP00043.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00045.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00049.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00052.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00054.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00056.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00058.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00062.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00064.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00066.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00068.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00072.SDG	Brahui.SDG	modern	Central_Eurasia	modern
+HGDP00074.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00078.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00080.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00082.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00086.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00088.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00090.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00092.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00094.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00096.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00098.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00167.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00169.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00171.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00179.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00181.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00183.SDG	Balochi.SDG	modern	Central_Eurasia	modern
+HGDP00187.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00191.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00195.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00197.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00201.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00205.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00206.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00208.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00210.SDG	Sindhi_Pakistan.SDG	modern	Central_Eurasia	modern
+HGDP00213.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00216.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00218.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00222.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00224.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00226.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00228.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00232.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00241.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00243.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00244.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00248.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00254.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00258.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00259.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00262.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00264.SDG	Pathan.SDG	modern	Central_Eurasia	modern
+HGDP00274.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00277.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00281.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00285.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00286.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00288.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00290.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00298.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00302.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00304.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00307.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00309.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00311.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00313.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00315.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00319.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00323.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00326.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00328.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00330.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00333.SDG	Kalash.SDG	modern	Central_Eurasia	modern
+HGDP00338.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00341.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00346.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00351.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00356.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00359.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00364.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00371.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00372.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00382.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00388.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00392.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00402.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00407.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00412.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00417.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00423.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00428.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00433.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00438.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00444.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00445.SDG	Burusho.SDG	modern	Central_Eurasia	modern
+HGDP00511.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00512.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00513.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00514.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00515.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00516.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00517.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00518.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00519.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00522.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00523.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00524.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00525.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00526.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00527.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00528.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00529.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00531.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00533.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00534.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00535.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00536.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00537.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00538.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00539.SDG	French.SDG	modern	West_Eurasia	modern
+HGDP00557.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00558.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00559.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00560.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00561.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00562.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00563.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00564.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00565.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00566.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00567.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00568.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00569.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00571.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00572.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00573.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00574.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00575.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00577.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00578.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00579.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00580.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00582.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00583.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00584.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00586.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00587.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00588.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00591.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00594.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00595.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00597.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00598.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00599.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00600.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00601.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00602.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00604.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00606.SDG	Druze.SDG	modern	Central_Eurasia	modern
+HGDP00607.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00608.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00609.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00610.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00611.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00612.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00613.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00614.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00615.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00616.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00618.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00619.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00620.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00622.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00623.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00624.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00625.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00626.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00628.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00629.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00630.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00631.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00632.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00634.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00635.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00636.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00637.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00638.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00639.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00640.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00641.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00642.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00643.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00644.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00645.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00646.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00647.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00648.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00649.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00650.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00651.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00653.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00654.SDG	BedouinA.SDG	modern	Central_Eurasia	modern
+HGDP00666.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00667.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00668.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00669.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00670.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00671.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00672.SDG	Italian_Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00673.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00674.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP00675.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00676.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00677.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00679.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00680.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00683.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00684.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00685.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00686.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00687.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00688.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00689.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00690.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00691.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00694.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00696.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00697.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00698.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00699.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00700.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00701.SDG	BedouinB.SDG	modern	Central_Eurasia	modern
+HGDP00722.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00724.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00725.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00726.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00727.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00729.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00730.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00731.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00732.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00733.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00734.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00735.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00736.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00737.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00739.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00740.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00745.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00746.SDG	Palestinian.SDG	modern	Central_Eurasia	modern
+HGDP00794.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00795.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00796.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00797.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00798.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00799.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00800.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00802.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00803.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00804.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00805.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00806.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00807.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00808.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00810.SDG	Orcadian.SDG	modern	West_Eurasia	modern
+HGDP00879.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00880.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00882.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00883.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00884.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00885.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00886.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00887.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00888.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00889.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00890.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00891.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00892.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00893.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00894.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00895.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00896.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00897.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00898.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00899.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00900.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00901.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00902.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP00903.SDG	Russian.SDG	modern	West_Eurasia	modern
+HGDP01062.SDG	Italian_Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01063.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01064.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01065.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01066.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01067.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01068.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01069.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01070.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01071.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01072.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01073.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01074.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01075.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01076.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01077.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01078.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01079.SDG	Sardinian.SDG	modern	West_Eurasia	modern
+HGDP01151.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01152.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01153.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01155.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01156.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01157.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01161.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01162.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01163.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01164.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01166.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01167.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01168.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01169.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01171.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01172.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01173.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01174.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01177.SDG	Italian_North.SDG	modern	West_Eurasia	modern
+HGDP01357.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01358.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01359.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01360.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01361.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01362.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01363.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01364.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01365.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01366.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01367.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01368.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01370.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01373.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01374.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01375.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01376.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01377.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01378.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01379.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01380.SDG	Basque.SDG	modern	West_Eurasia	modern
+HGDP01382.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01383.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01385.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01386.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01387.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01396.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01397.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01398.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01399.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01400.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01401.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01402.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01403.SDG	Adygei.SDG	modern	West_Eurasia	modern
+HGDP01404.SDG	Adygei.SDG	modern	West_Eurasia	modern
