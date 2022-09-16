@@ -1,6 +1,7 @@
 Data and Code for Altınışık *et al.*, 2022
 ================
 #### This repo includes all code and data relevant to figures in Altınışık *et al.*, 2022.
+[![DOI](https://zenodo.org/badge/531273322.svg)](https://zenodo.org/badge/latestdoi/531273322)
 
 ## Usage
 
